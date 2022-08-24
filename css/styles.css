@@ -11295,6 +11295,13 @@ header {
   padding-bottom: 6rem;
 }
 
+.ess-header-logo {
+  background-image: url("assets/EES-LOGO.png");
+background-position: fixed;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
 section {
   padding-top: 9rem;
   padding-bottom: 9rem;
